@@ -1,4 +1,4 @@
-// Problem 3: Broken Smart Pointer Code
+// Problem 2: Broken Smart Pointer Code
 // This code has memory management bugs. Fix them using smart pointers.
 //
 // Instructions:

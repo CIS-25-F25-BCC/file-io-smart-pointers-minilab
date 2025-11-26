@@ -1,4 +1,4 @@
-// Problem 4: Implement RAII
+// Problem 3: Implement RAII
 // This code has a DatabaseConnection class that requires manual connect/disconnect calls.
 // Your task: Implement a RAII wrapper class that automatically manages the connection.
 //
