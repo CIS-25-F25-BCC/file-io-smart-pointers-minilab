@@ -1,6 +1,6 @@
 # Mini-Lab: File I/O and Smart Pointers
 
-**CIS-25: Data Structures**
+**CIS-25**
 **November 26, 2025**
 
 ## Overview
