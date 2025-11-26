@@ -17,7 +17,7 @@ In this lab, you'll fix three C++ programs that have bugs related to file I/O an
 
 ## Setup
 
-1. Download the starter code from Canvas (or clone the repository)
+1. Download/Clone the starter code from GitHub
 2. Open the folder in CLion (File > Open, select the folder containing `CMakeLists.txt`)
 3. Build the project (Build > Build Project)
 
@@ -79,11 +79,11 @@ Then modify the functions to use `ConnectionGuard` instead of manual connect/dis
 
 Submit a zipped copy of your completed repository containing all your fixed code. Include group members' names as a comment on the Canvas submission or in a `README.txt` file in the repo.
 
-## Grading Rubric (15 points)
+## Grading Rubric (20 points)
 
 - **Problem 1** (5 points): All file reading bugs fixed, correct output
-- **Problem 2** (5 points): Smart pointers used correctly, no memory leaks
-- **Problem 3** (5 points): RAII wrapper implemented, connections auto-close
+- **Problem 2** (7 points): Smart pointers used correctly, no memory leaks
+- **Problem 3** (8 points): RAII wrapper implemented, connections auto-close
 
 ## Tips
 
